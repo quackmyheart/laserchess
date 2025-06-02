@@ -1,2 +1,2 @@
-# laserchess
+# Laser Chess
 laser chess
