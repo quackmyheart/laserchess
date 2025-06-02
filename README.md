@@ -1,1 +1,1 @@
-# Laser Chess PIECES \n Pharaoh (1): goal is to attack this kid with lasers \n Scarab (2): reflective on 2 sides, can be swapped with pyramid, anubis \n Anubis (2): cannot be killed from front \n Pyramid (7): reflective on 1 side \n Sphinx (1): shoots laser beams \n \n MOVEMENTS \n Turn (tau / 4 each) \n Move (any adjacent tile) \n Swap (Scarab only, swap with an adjacent piece) \n 
+# Laser Chess 
